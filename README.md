@@ -9,7 +9,7 @@ A place to keep all of my natural language processing projects. Just as NLP is a
 
 # 1. Text Classification with Machine Learning
 1. Used GloVe word embeddings and BiLSTMs\GRUs to classify tweets about natural disasters
-2. Compared results to Google's BERT using the HuggingFace transformers library (over 84% f1-score for BERT 81% for BiLSTM/GRU blend)  
+2. Compared results to Google's BERT using the HuggingFace transformers library (over 84% f1-score for BERT; 81% for BiLSTM/GRU blend)  
 ![](https://jalammar.github.io/images/BERT-language-modeling-masked-lm.png)
 
 # 2. Textual Entailment with Transformers
